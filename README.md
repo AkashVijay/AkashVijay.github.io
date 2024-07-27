@@ -26,14 +26,14 @@ Carried out Python calculations to measure and analyze the throughput value of f
 
 ---
 ## Projects and Mentorship
-![Codepath](/assets/download.png)
+![Codepath](/c.png)
 #### Codepath Tech Fellow
 Managed 15+ students throughout the Technical Interview Prep, teaching data structures and algorithms in an easy to
 understand manner
 <br>
 <br>
 <br>
-![a](/assets/test.jpg)
+![a](/assets/m.jpg)
 #### What's in the Buzz
 Used acoustic sensors to capture the wing beat frequency of vector mosquitoes in order to feed a programmed
 microcontroller
@@ -41,7 +41,7 @@ microcontroller
 
 
 
-![Space_Invaders](/assets/spaceinvaders.png)
+![Space_Invaders](/assets/s.png)
 #### Space Invaders
 Implemented high-level software algorithms such as image compression, background clipping, controller GPU
 synchronization, and hardware computer simulation
