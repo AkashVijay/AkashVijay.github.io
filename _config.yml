@@ -1,6 +1,10 @@
 title: Akash Vijay
 logo: /assets/test.jpg
 description: ECE at UT Austin 
-linkedin: akashxvijay
+
 show_downloads: false
 theme: jekyll-theme-minimal
+
+author: 
+  linkedin: akashxvijay
+  email: axvij1016@gmail.com
