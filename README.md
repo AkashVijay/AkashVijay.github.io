@@ -33,6 +33,7 @@ understand manner
 <br>
 <br>
 <br>
+![a](/assets/mosquito.jpg)
 #### What's in the Buzz
 Used acoustic sensors to capture the wing beat frequency of vector mosquitoes in order to feed a programmed
 microcontroller
