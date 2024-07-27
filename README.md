@@ -1,11 +1,11 @@
 # Software Engineer
 
-### About Me
+## About Me
 My name's Akash Vijay and I'm a software engineer pursuing a bachelor's in Electrical and Computer Engineering. Outside of school, I enjoy playing chess, investing, and watching basketball.
 
 Feel free to message me on LinkedIn, I enjoy connecting with new people and learning more about them!
 
-### Work Experience
+## Work Experience
 ![Granulate](/assets/Granulate.png)
 #### Granulate
 Created a Python FastAPI backend server that extracts results from an API and presents data to client.
@@ -25,7 +25,7 @@ web applications.
 Carried out Python calculations to measure and analyze the throughput value of fronthaul cells.
 
 ---
-### Projects and Mentorship
+## Projects and Mentorship
 ![Codepath](/assets/download.png)
 #### Codepath Tech Fellow
 Managed 15+ students throughout the Technical Interview Prep, teaching data structures and algorithms in an easy to
@@ -46,7 +46,7 @@ Implemented high-level software algorithms such as image compression, background
 synchronization, and hardware computer simulation
 
 ---
-### Clubs
+## Clubs
 ![IEEE](/assets/ieee.png)
 #### IEEE
 
