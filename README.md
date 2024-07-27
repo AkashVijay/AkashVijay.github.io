@@ -6,7 +6,7 @@ My name's Akash Vijay and I'm a software engineer pursuing a bachelor's in Elect
 Feel free to message me on LinkedIn, I enjoy connecting with new people and learning more about them!
 
 ## Work Experience
-![Granulate](/assets/Granulate.png)
+<!--- ![Granulate](/assets/Granulate.png) --->
 #### Granulate
 Created a Python FastAPI backend server that extracts results from an API and presents data to client.
 
