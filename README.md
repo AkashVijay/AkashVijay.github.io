@@ -48,11 +48,12 @@ synchronization, and hardware computer simulation
 
 ---
 ## Clubs
-![IEEE](/assets/ieee.png)
+
+![IEEE](/assets/i.png) ![UT_Genesis](/assets/g.jpg) ![Chess](/assets/ch.jpg)
+#### UT Genesis
 #### IEEE
 
-![UT_Genesis](/assets/genesis.jpg)
-#### UT Genesis
 
-![Chess](/assets/chess.jpg)
+
+
 #### UT Chess Club
