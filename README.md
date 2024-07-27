@@ -16,5 +16,15 @@ web applications.
 #### Cognitive Cloud Analytics
 Carried out Python calculations to measure and analyze the throughput value of fronthaul cells.
 
+### Projects and Mentorship
+#### Codepath Tech Fellow
+Managed 15+ students throughout the Technical Interview Prep, teaching data structures and algorithms in an easy to
+understand manner
 
+#### What's in the Buzz
+Used acoustic sensors to capture the wing beat frequency of vector mosquitoes in order to feed a programmed
+microcontroller
 
+#### Space Invaders
+Implemented high-level software algorithms such as image compression, background clipping, controller GPU
+synchronization, and hardware computer simulation
