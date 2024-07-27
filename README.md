@@ -17,9 +17,9 @@ Created a Python FastAPI backend server that extracts results from an API and pr
 #### Lucidity
 Designed and implemented an API using Django REST framework, facilitating seamless integration and data exchange for
 web applications.
-
-
-
+<br>
+<br>
+<br>
 
 #### Cognitive Cloud Analytics
 Carried out Python calculations to measure and analyze the throughput value of fronthaul cells.
@@ -30,6 +30,7 @@ Carried out Python calculations to measure and analyze the throughput value of f
 #### Codepath Tech Fellow
 Managed 15+ students throughout the Technical Interview Prep, teaching data structures and algorithms in an easy to
 understand manner
+<br>
 <br>
 <br>
 #### What's in the Buzz
