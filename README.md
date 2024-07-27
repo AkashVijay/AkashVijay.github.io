@@ -17,6 +17,7 @@ web applications.
 Carried out Python calculations to measure and analyze the throughput value of fronthaul cells.
 
 ### Projects and Mentorship
+(/assets/download.png)
 #### Codepath Tech Fellow
 Managed 15+ students throughout the Technical Interview Prep, teaching data structures and algorithms in an easy to
 understand manner
