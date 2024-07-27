@@ -24,6 +24,7 @@ web applications.
 #### Cognitive Cloud Analytics
 Carried out Python calculations to measure and analyze the throughput value of fronthaul cells.
 
+---
 ### Projects and Mentorship
 ![Codepath](/assets/download.png)
 #### Codepath Tech Fellow
@@ -42,6 +43,7 @@ microcontroller
 Implemented high-level software algorithms such as image compression, background clipping, controller GPU
 synchronization, and hardware computer simulation
 
+---
 ### Clubs
 ![IEEE](/assets/ieee.png)
 #### IEEE
