@@ -11,12 +11,9 @@ Feel free to message me on LinkedIn, I enjoy connecting with new people and lear
 <!--- ![Granulate](/assets/Granulate.png) --->
 #### Granulate
 Created a Python FastAPI backend server that extracts results from an API and presents data to client.
-
 <br>
 <br>
 <br>
-
-
 #### Lucidity
 Designed and implemented an API using Django REST framework, facilitating seamless integration and data exchange for
 web applications.
