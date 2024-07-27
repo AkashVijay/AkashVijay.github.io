@@ -5,6 +5,8 @@ My name's Akash Vijay and I'm a software engineer pursuing a bachelor's in Elect
 
 Feel free to message me on [Linkedin](https://www.linkedin.com/in/akashxvijay/) or at my email: axvij1016@gmail.com, I enjoy connecting with new people and learning more about them!
 
+---
+
 ## Work Experience
 <!--- ![Granulate](/assets/Granulate.png) --->
 #### Granulate
