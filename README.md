@@ -31,6 +31,7 @@ Carried out Python calculations to measure and analyze the throughput value of f
 Managed 15+ students throughout the Technical Interview Prep, teaching data structures and algorithms in an easy to
 understand manner
 <br>
+<br>
 #### What's in the Buzz
 Used acoustic sensors to capture the wing beat frequency of vector mosquitoes in order to feed a programmed
 microcontroller
