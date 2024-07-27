@@ -1,1 +1,4 @@
-# akavij.github.io
+# Software Engineer
+
+### Education
+ECE
