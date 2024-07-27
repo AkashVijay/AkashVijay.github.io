@@ -28,3 +28,8 @@ microcontroller
 #### Space Invaders
 Implemented high-level software algorithms such as image compression, background clipping, controller GPU
 synchronization, and hardware computer simulation
+
+### Clubs
+#### IEEE
+
+#### UT Genesis
