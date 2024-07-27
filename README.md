@@ -51,7 +51,7 @@ synchronization, and hardware computer simulation
 
 ![IEEE](/assets/i.png) ![UT_Genesis](/assets/g.jpg) ![Chess](/assets/ch.jpg)
 
-#### IEEE  &nbsp    UT Genesis   &nbsp &nbsp    UT Chess Club
+#### IEEE  &nbsp;    UT Genesis   &nbsp;&nbsp;    UT Chess Club
 
 
 
