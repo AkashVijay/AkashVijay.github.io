@@ -2,9 +2,6 @@ title: Akash Vijay
 logo: /assets/test.jpg
 description: ECE at UT Austin 
 
-show_downloads: false
-theme: jekyll-theme-minimal
-
 author:
   # Biographic information
   avatar           : "profile.png"
@@ -57,3 +54,8 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
+
+show_downloads: false
+theme: jekyll-theme-minimal
+
+
