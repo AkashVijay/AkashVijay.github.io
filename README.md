@@ -3,7 +3,7 @@
 ## About Me
 My name's Akash Vijay and I'm a software engineer pursuing a bachelor's in Electrical and Computer Engineering. Outside of school, I enjoy playing chess, investing, and watching basketball.
 
-Feel free to message me on LinkedIn, I enjoy connecting with new people and learning more about them!
+Feel free to message me on [LinkedIn](https://www.linkedin.com/in/akashxvijay/) or at my email: axvij1016@gmail.com, I enjoy connecting with new people and learning more about them!
 
 ---
 
@@ -34,7 +34,7 @@ understand manner
 <br>
 <br>
 ![a](/assets/m.jpg)
-#### What's in the Buzz
+#### [What's in the Buzz](https://github.com/AkashVijay/Whats-in-the-Buzz-)
 Used acoustic sensors to capture the wing beat frequency of vector mosquitoes in order to feed a programmed
 microcontroller
 
@@ -42,7 +42,7 @@ microcontroller
 
 
 ![Space_Invaders](/assets/s.png)
-#### Space Invaders
+#### [Space Invaders](https://github.com/AkashVijay/EE-319K-Space-Invaders/tree/main)
 Implemented high-level software algorithms such as image compression, background clipping, controller GPU
 synchronization, and hardware computer simulation
 
