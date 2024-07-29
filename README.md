@@ -1,7 +1,7 @@
 # Software Engineer
 
 ## About Me
-My name's Akash Vijay and I'm a software engineer pursuing a bachelor's in Electrical and Computer Engineering. Outside of school, I enjoy playing chess, investing, and watching basketball.
+My name's Akash Vijay and I'm a software engineer pursuing a bachelor's in Electrical and Computer Engineering. Outside of school, I enjoy playing chess, investing in stocks, and watching basketball.
 
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/akashxvijay/) or at my email: axvij1016@gmail.com, I enjoy connecting with new people and learning more about them!
 
@@ -9,7 +9,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/akashxvijay/) 
 
 ## Work Experience
 <!--- ![Granulate](/assets/Granulate.png) --->
-#### Granulate
+#### Intel - Granulate
 Created a Python FastAPI backend server that extracts results from an API and presents data to client.
 <br>
 <br>
@@ -49,9 +49,9 @@ synchronization, and hardware computer simulation
 ---
 ## Clubs
 
-![IEEE](/assets/i.png) ![UT_Genesis](/assets/g.jpg) ![Chess](/assets/ch.jpg)
+![IEEE](/assets/i.png)  &nbsp; &nbsp; &nbsp; ![UT_Genesis](/assets/g.jpg)  &nbsp; &nbsp; &nbsp; ![Chess](/assets/ch.jpg)
 
-#### IEEE  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   UT Genesis   &nbsp;&nbsp;&nbsp;&nbsp;    UT Chess Club
+#### IEEE  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   UT Genesis   &nbsp;&nbsp;&nbsp;&nbsp;    UT Chess Club
 
 
 
